@@ -1,0 +1,30 @@
+@import 'bulma/css/bulma.css';
+
+.mainArea
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 700px;
+}
+
+.box
+{
+    background-color:black;
+    color: white;
+}
+
+.title
+ {
+    color: white;
+ }
+
+.field
+{
+    color: white;
+}
+
+.control
+{
+    color: white;
+}
